@@ -1,6 +1,5 @@
 <h1>Active Directory Homelab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 In this project I am making an Active Directory home lab Environment using Oracle Virtual Box. I Made this lab to help develop understanding of how active directory and windows networking works. 
