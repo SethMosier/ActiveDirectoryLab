@@ -13,9 +13,9 @@ In this project I am making an Active Directory home lab Environment using Oracl
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows Server 2022</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<!-- <h2>Program walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
